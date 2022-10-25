@@ -21,13 +21,13 @@
 
 #pragma once
 //Customing GrowID
-string Growid_acc = "Boterry";
+string Growid_acc = "HaikalLagiBadut";
 
 //Customing Password
-string Password_acc = "erik123.";
+string Password_acc = "Hr@454545";
 
 //Customing Gmail
-string Gmail_acc ="gfakkontolinkffffkppwerikgansjla@gmail.com";
+string Gmail_acc ="Rajangebadut099@gmail.com";
 
 //Customing Start From (Account)
 int START_ACC = 1;
